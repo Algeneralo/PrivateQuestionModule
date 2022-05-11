@@ -1,0 +1,13 @@
+{
+  "name": "PrivateQuestions",
+  "alias": "privatequestions",
+  "description": "",
+  "keywords": [],
+  "priority": 0,
+  "providers": [
+    "Modules\\PrivateQuestions\\Providers\\PrivateQuestionsServiceProvider"
+  ],
+  "aliases": {},
+  "files": [],
+  "requires": []
+}
